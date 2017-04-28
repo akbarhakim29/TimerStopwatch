@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TimerStopwatch.iml" filepath="$PROJECT_DIR$/TimerStopwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countdowntimer2/countdowntimer2.iml" filepath="$PROJECT_DIR$/countdowntimer2/countdowntimer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timerwithprogressbar/timerwithprogressbar.iml" filepath="$PROJECT_DIR$/timerwithprogressbar/timerwithprogressbar.iml" />
+    </modules>
+  </component>
+</project>
